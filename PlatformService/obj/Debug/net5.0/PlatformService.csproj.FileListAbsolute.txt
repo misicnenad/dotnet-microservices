@@ -61,3 +61,4 @@ D:\repos\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.d
 D:\repos\dotnet-microservices\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
 D:\repos\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 D:\repos\dotnet-microservices\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
+D:\repos\dotnet-microservices\PlatformService\bin\Debug\net5.0\appsettings.Production.json
