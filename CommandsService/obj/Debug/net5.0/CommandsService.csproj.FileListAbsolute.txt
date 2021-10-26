@@ -36,3 +36,9 @@ D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.d
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\Google.Protobuf.dll
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\repos\dotnet-microservices\CommandsService\bin\Debug\net5.0\Grpc.Net.Common.dll
