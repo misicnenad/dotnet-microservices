@@ -32,7 +32,6 @@ D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\staticwebassets\C
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\staticwebassets\CommandsService.StaticWebAssets.xml
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\scopedcss\bundle\CommandsService.styles.css
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.RazorTargetAssemblyInfo.cache
-D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.csproj.CopyComplete
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.dll
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
 D:\repos\dotnet-microservices\CommandsService\obj\Debug\net5.0\CommandsService.pdb
